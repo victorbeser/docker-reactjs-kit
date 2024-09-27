@@ -1,8 +1,8 @@
 version: '3.8'
 
 services:
-  mywebsite-test: # Change
-    image: mywebsite-test:latest  # Change
+  your-project-name: # Change
+    image: your-project-name:latest  # Change
     build:
       context: .
       dockerfile: Dockerfile
