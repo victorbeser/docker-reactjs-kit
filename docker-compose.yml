@@ -1,0 +1,10 @@
+version: '3.8'
+
+services:
+  mywebsite-test: # Change
+    image: mywebsite-test:latest  # Change
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "3000:80"
