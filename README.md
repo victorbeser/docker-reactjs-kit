@@ -73,7 +73,7 @@ Before we start you will need this:
    ```bash
    npm install 
  
-Now you should be able to access your project and see the React's home page without any problems in http://localhost:8084/
+Now you should be able to access your project and see the React's home page without any problems in http://localhost:3000/
 
 ![image](https://github.com/user-attachments/assets/ec2d62f8-e4cd-4db4-a4ac-397931aab994)
 
