@@ -31,9 +31,9 @@ Before we start you will need this:
 2. Get this repo as a clone into your system:
 
    ```bash
-   git clone https://github.com/victorbeser/docker-reactjs.git
+   git clone https://github.com/victorbeser/docker-reactjs-kit.git
 
-3. Copy and paste all the files of 'docker-laravel' folder to 'your-project-name' project React JS folder;
+3. Copy and paste all the files of 'docker-laravel-kit' folder to 'your-project-name' project React JS folder;
    
    ```bash
    It should be like this:
