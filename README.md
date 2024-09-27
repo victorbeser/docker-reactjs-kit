@@ -87,4 +87,4 @@ Note: You can change the port in 'docker-compose.yml':
       - "3000:80" # Change here the 8084 port
   ```
 
-Now that you got your Front-End web application working very well try creating your Back-End web application with Laravel & Docker <a href="https://github.com/victorbeser/docker-laravel">clicking here</a>!
+Now that you got your Front-End web application working very well try creating your Back-End web application with Laravel & Docker <a href="https://github.com/victorbeser/docker-laravel-kit">clicking here</a>!
